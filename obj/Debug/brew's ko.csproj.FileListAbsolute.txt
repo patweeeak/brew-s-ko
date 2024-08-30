@@ -1,0 +1,11 @@
+C:\Users\patri\source\repos\brew's ko\bin\Debug\brew's ko.exe.config
+C:\Users\patri\source\repos\brew's ko\bin\Debug\brew's ko.exe
+C:\Users\patri\source\repos\brew's ko\bin\Debug\brew's ko.pdb
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew_s_ko.Dashboard.resources
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew_s_ko.Inventory.resources
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew_s_ko.Properties.Resources.resources
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.exe
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.pdb
