@@ -9,3 +9,18 @@ C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.csproj.GenerateResourc
 C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.csproj.CoreCompileInputs.cache
 C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.exe
 C:\Users\patri\source\repos\brew's ko\obj\Debug\brew's ko.pdb
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew's ko.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew's ko.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.Dashboard.resources
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.Inventory.resources
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.ProductUC.resources
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew's ko.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew's ko.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew's ko.exe
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew's ko.pdb
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\bin\Debug\brew's ko.exe.config
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\bin\Debug\brew's ko.exe
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\bin\Debug\brew's ko.pdb
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.Order.resources
+C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.Homepage.resources
