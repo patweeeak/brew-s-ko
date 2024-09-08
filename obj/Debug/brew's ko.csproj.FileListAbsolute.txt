@@ -24,3 +24,6 @@ C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\bin\Debug\brew's ko.exe
 C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\bin\Debug\brew's ko.pdb
 C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.Order.resources
 C:\Users\ACER\OneDrive\Documents\GitHub\brew-s-ko\obj\Debug\brew_s_ko.Homepage.resources
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew_s_ko.Homepage.resources
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew_s_ko.Order.resources
+C:\Users\patri\source\repos\brew's ko\obj\Debug\brew_s_ko.ProductUC.resources
