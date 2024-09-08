@@ -10,12 +10,16 @@ using System.Windows.Forms;
 
 namespace brew_s_ko
 {
-    public partial class Inventory : Form
+    public partial class Order : Form
     {
-        private Form currentchildForm;
-        public Inventory()
+        public Order()
         {
             InitializeComponent();
+        }
+
+        private void Order_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

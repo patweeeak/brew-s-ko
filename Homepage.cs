@@ -10,10 +10,9 @@ using System.Windows.Forms;
 
 namespace brew_s_ko
 {
-    public partial class Inventory : Form
+    public partial class Homepage : Form
     {
-        private Form currentchildForm;
-        public Inventory()
+        public Homepage()
         {
             InitializeComponent();
         }
